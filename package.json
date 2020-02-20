@@ -4,7 +4,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "An implementation of the Unicode Line Breaking Algorithm (UAX #14)",
   "source": "src/linebreaker.js",
   "main": "dist/main.js",
