@@ -1,5 +1,9 @@
 {
-  "name": "linebreak",
+  "_name": "linebreak",
+  "name": "@kawaz/linebreak",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "1.0.2",
   "description": "An implementation of the Unicode Line Breaking Algorithm (UAX #14)",
   "source": "src/linebreaker.js",
